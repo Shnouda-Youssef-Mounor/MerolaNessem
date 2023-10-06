@@ -16,10 +16,10 @@ return(
             <NavLink className="nav-link active" to="/MerolaNessem">Work</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="/About">About</NavLink>
+            <NavLink className="nav-link" to="/MerolaNessem/About">About</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="/Contact">Contact</NavLink>
+            <NavLink className="nav-link" to="/MerolaNessem/Contact">Contact</NavLink>
           </li>
         </ul>
         <NavLink className="navbar-brand w-75 " to="/MerolaNessem">Merola Nessem</NavLink>

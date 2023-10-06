@@ -12,11 +12,10 @@ function App() {
     <Navbar/>
     <div className='APP'>
     <Routes>
-    <Route path="/ً" element={<Work/>}/>
-    <Route path="/ًWork" element={<Work/>}/>
+    <Route path="/MerolaNessem/Work" element={<Work/>}/>
       <Route path="/MerolaNessem" element={<Work/>}/>
-      <Route path="/About" element={<About/>}/>
-      <Route path="/Contact" element={<Contactus/>}/>
+      <Route path="/MerolaNessem/About" element={<About/>}/>
+      <Route path="/MerolaNessem/Contact" element={<Contactus/>}/>
     </Routes>
 
     
