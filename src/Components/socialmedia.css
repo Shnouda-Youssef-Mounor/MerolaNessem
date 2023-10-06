@@ -1,0 +1,21 @@
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+
+}
+.icon{
+    margin: 3px;
+    border-radius: 10px;
+    width: 25px;
+    height: 25px;
+    color: black;
+}
+
+.icon:hover{
+    transition-duration: 1s;
+    color: rgb(0, 153, 255);
+    
+}.link{
+    text-decoration: none;
+}
