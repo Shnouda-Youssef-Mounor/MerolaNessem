@@ -13,7 +13,7 @@ return(
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item">
-            <NavLink className="nav-link active" aria-current="page" to="/">Work</NavLink>
+            <NavLink className="nav-link active" to="/MerolaNessem">Work</NavLink>
           </li>
           <li className="nav-item">
             <NavLink className="nav-link" to="/About">About</NavLink>
@@ -22,7 +22,7 @@ return(
             <NavLink className="nav-link" to="/Contact">Contact</NavLink>
           </li>
         </ul>
-        <NavLink className="navbar-brand w-75 " to="/">Merola Nessem</NavLink>
+        <NavLink className="navbar-brand w-75 " to="/MerolaNessem">Merola Nessem</NavLink>
       </div>
       <SocialMedia/>
     </div>
