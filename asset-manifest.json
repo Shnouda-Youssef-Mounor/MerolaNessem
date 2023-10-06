@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MerolaNessem/static/css/main.bb7f0477.css",
+    "main.js": "/MerolaNessem/static/js/main.3eb1e6aa.js",
+    "static/js/787.7988a682.chunk.js": "/MerolaNessem/static/js/787.7988a682.chunk.js",
+    "static/media/1.jpg": "/MerolaNessem/static/media/1.9f50ce58544e4d9d6680.jpg",
+    "static/media/2.jpg": "/MerolaNessem/static/media/2.ddddbbf34e6afa1cee4f.jpg",
+    "static/media/4.jpg": "/MerolaNessem/static/media/4.50c46a15f1bfc0f5bd1c.jpg",
+    "static/media/3.jpg": "/MerolaNessem/static/media/3.78866a8c6a624a54b536.jpg",
+    "static/media/1.png": "/MerolaNessem/static/media/1.8138ba0bd178be618dce.png",
+    "index.html": "/MerolaNessem/index.html",
+    "main.bb7f0477.css.map": "/MerolaNessem/static/css/main.bb7f0477.css.map",
+    "main.3eb1e6aa.js.map": "/MerolaNessem/static/js/main.3eb1e6aa.js.map",
+    "787.7988a682.chunk.js.map": "/MerolaNessem/static/js/787.7988a682.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7f0477.css",
+    "static/js/main.3eb1e6aa.js"
+  ]
+}
