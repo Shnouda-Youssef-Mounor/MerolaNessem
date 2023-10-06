@@ -13,13 +13,13 @@ return(
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item">
-            <NavLink className="nav-link active" to="/MerolaNessem">Work</NavLink>
+            <NavLink className="nav-link active" to="/Work">Work</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="/MerolaNessem/About">About</NavLink>
+            <NavLink className="nav-link" to="/About">About</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink className="nav-link" to="/MerolaNessem/Contact">Contact</NavLink>
+            <NavLink className="nav-link" to="/Contact">Contact</NavLink>
           </li>
         </ul>
         <NavLink className="navbar-brand w-75 " to="/MerolaNessem">Merola Nessem</NavLink>
